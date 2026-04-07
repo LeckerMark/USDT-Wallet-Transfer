@@ -1,0 +1,1 @@
+npm install @reown/appkit @reown/appkit-adapter-wagmi @reown/appkit-networks wagmi viem @tanstack/react-query
